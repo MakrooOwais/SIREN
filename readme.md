@@ -1,7 +1,7 @@
 # SIREN: Synthetic Image Recognition and Explanation Network
 
 ## Overview
-This repository hosts the **SIREN** project, the winning solution for the InterIIT Tech Meet 13.0. The project focuses on detecting AI-generated images and generating interpretable explanations for their classification. SIREN comprises two main components:
+This repository hosts the **SIREN** project, the **winning solution** to the **Problem Statement (PS)** organized by **Adobe** in **InterIIT Tech Meet 13.0**. The project focuses on detecting AI-generated images and generating interpretable explanations for their classification. SIREN comprises two main components:
 
 1. **SIREN-𝛿**: A robust classifier to distinguish real images from AI-generated ones.
 2. **SIREN-𝛼**: An explainability pipeline for artifact identification and explanation generation.
