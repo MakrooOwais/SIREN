@@ -86,13 +86,13 @@ With the proliferation of advanced generative AI models, ensuring the authentici
 ### Task 1: Image Classification
 Run the inference script to classify images:
 ```bash
-python Submission_Task_1/infer.py --input <image_folder> --output <output_file>
+python Submission_Task_1/infer.py
 ```
 
 ### Task 2: Artifact Explanation
 Generate explanations for classified AI-generated images:
 ```bash
-python Submission_Task_2/infer.py --input <classified_images> --output <explanations_json>
+python Submission_Task_2/infer.py
 ```
 
 ### Interactive UI with GradIO
