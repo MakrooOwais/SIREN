@@ -103,6 +103,16 @@ python Submission_Task_2/main.py
 
 ---
 
+## Pretrained Weights
+Below are the links to the pretrained weight files for both tasks:
+
+| Task                 | Model Component                  | Download Link                  |
+|----------------------|----------------------------------|---------------------------------|
+| Task 1: Classification | **SIREN-𝛿**               | [Download](#)                  |
+| Task 2: Explanation   | **SIREN-𝛼**                   | [Download](#)                  |
+
+---
+
 ## Results
 ### Task 1: Classification Metrics
 | Model             | Accuracy | Precision | Recall | F1 Score |
